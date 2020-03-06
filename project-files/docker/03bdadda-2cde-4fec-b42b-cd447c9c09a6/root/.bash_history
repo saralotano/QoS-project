@@ -11,3 +11,4 @@ ping 192.168.2.2
 ping 192.168.3.2
 ifconfig
 iperf -u -c 192.168.2.2 -b 2M
+iperf -u -c 192.168.2.2 -b 1M
